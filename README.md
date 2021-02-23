@@ -1,2 +1,2 @@
 # Screen Shots
-![Webp net-resizeimage](https://user-images.githubusercontent.com/48565759/108878711-8d83ec00-7626-11eb-8e18-ea1c1a43b74f.png)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/108881225-17cd4f80-7629-11eb-99bc-e51ce80ab591.png)
