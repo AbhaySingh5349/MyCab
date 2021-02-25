@@ -28,3 +28,5 @@
 --> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
 
 --> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
+
+--> [Glide Media Management](https://github.com/bumptech/glide)
