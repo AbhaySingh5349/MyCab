@@ -24,3 +24,5 @@
 # Libraries:
 
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
+
+--> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
