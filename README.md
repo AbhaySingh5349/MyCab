@@ -29,9 +29,9 @@
 
 --> [Glide Media Management](https://github.com/bumptech/glide)
 
---> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
-
 --> [Geofire Location](https://github.com/firebase/geofire-android)
+
+--> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
 --> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
