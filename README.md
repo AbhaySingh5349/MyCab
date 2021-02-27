@@ -1,9 +1,9 @@
 # Features of App:
 --> Phone Number registration using Firebase Authentication.
 
---> Live location tracking of driver from rider.
-
 --> Search locations in search bar and set as destination for ride.
+
+--> Live location tracking of driver from rider.
 
 --> keep a check on Riding/Driving history.
 
