@@ -25,9 +25,9 @@
 
 --> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 
---> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
-
 --> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
+
+--> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
 --> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
