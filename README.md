@@ -31,9 +31,9 @@
 
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
---> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
-
 --> [Geofire Location](https://github.com/firebase/geofire-android)
+
+--> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
 # Developed By:
 --> Abhay Singh:Feedback is highly appreciated, report any issues or drop suggestions at:[abhay5349singh@gmail.com](mailto:abhay5349singh@gmail.com)
